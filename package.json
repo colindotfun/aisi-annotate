@@ -87,12 +87,12 @@
     "jotai": "2.10.3",
     "lodash": "4.17.21",
     "lucide-react": "0.474.0",
-    "next": "15.0.4",
+    "next": "15.5.28",
     "next-nprogress-bar": "2.3.15",
     "next-themes": "0.4.4",
-    "react": "19.0.0",
+    "react": "19.0.9",
     "react-day-picker": "8.10.1",
-    "react-dom": "19.0.0",
+    "react-dom": "19.0.9",
     "react-hook-form": "7.54.2",
     "react-hotkeys-hook": "4.6.1",
     "react-markdown": "9.0.1",
@@ -120,12 +120,15 @@
     "cypress-axe": "1.5.0",
     "dotenv-cli": "7.4.4",
     "eslint": "8",
-    "eslint-config-next": "15.0.3",
+    "eslint-config-next": "15.5.28",
     "eslint-plugin-jsx-a11y": "6.10.2",
     "postcss": "8",
     "postcss-nesting": "13.0.1",
     "prisma": "6.2.1",
     "tailwindcss": "3.4.1",
     "typescript": "5.7.3"
+  },
+  "engines": {
+    "node": "24.x"
   }
 }
